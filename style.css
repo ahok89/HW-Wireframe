@@ -20,19 +20,24 @@
  #section {
     background: #ebebeb;
     text-align: center;
+    section: 495px;
  }
 
  #aside {
     background: #ebebeb;
+    section: 495px;
  }
 
  #footer {
     background: #ebebeb;
     text-align: center;
+    section: 495px;
  }
 
  #article{
     color: #ebebeb;
+    section: 495px;
+    
 }
 
 #h1,h2,h3{
