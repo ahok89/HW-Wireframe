@@ -6,45 +6,59 @@
     background: #777
     width: 960px
  }
-
+ 
  #header {
     background: #ebebeb;
     text-align: center;
+    
  }
 
  #nav {
     background: #ebebeb;
     text-align: center;
+    
  }
 
  #section {
     background: #ebebeb;
     text-align: center;
     section: 495px;
+    float: left;
  }
 
  #aside {
     background: #ebebeb;
     section: 495px;
+    float: left;
+    
+    
  }
 
  #footer {
     background: #ebebeb;
     text-align: center;
     section: 495px;
+    
+    
  }
 
  #article{
     color: #ebebeb;
     section: 495px;
+    float: left;
     
+
 }
 
 #h1,h2,h3{
     color: #ebebeb;
+    display: block;
+    float: left;
  }
 
  #p {
      color: #ebebeb;
+     display: block;
+     float: left;
     }
 
