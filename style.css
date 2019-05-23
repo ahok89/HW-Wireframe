@@ -1,8 +1,5 @@
 * {
     box-sizing: border-box;
-  }
-
-#background {
     font-size: 18px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777;
@@ -11,34 +8,38 @@
  }
 
  #header {
-    background: #ebebeb
+    background: #ebebeb;
+    text-align: center;
  }
 
  #nav {
-    background: #ebebeb
+    background: #ebebeb;
+    text-align: center;
  }
 
  #section {
-    background: #ebebeb
+    background: #ebebeb;
+    text-align: center;
  }
 
  #aside {
-    background: #ebebeb
+    background: #ebebeb;
  }
 
  #footer {
-    background: #ebebeb
+    background: #ebebeb;
+    text-align: center;
  }
 
  #article{
-    color: #ebebeb
+    color: #ebebeb;
 }
 
 #h1,h2,h3{
-    color: #ebebeb
+    color: #ebebeb;
  }
 
  #p {
-     color: #ebebeb
+     color: #ebebeb;
     }
 
