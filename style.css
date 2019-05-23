@@ -1,7 +1,44 @@
-background {
+* {
+    box-sizing: border-box;
+  }
+
+#background {
     font-size: 18px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777;
     background: #777
     width: 960px
  }
+
+ #header {
+    background: #ebebeb
+ }
+
+ #nav {
+    background: #ebebeb
+ }
+
+ #section {
+    background: #ebebeb
+ }
+
+ #aside {
+    background: #ebebeb
+ }
+
+ #footer {
+    background: #ebebeb
+ }
+
+ #article{
+    color: #ebebeb
+}
+
+#h1,h2,h3{
+    color: #ebebeb
+ }
+
+ #p {
+     color: #ebebeb
+    }
+
